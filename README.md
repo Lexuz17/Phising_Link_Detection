@@ -2,6 +2,7 @@
 
 ## **Description**
 This project aims to combat the rising tide of cybercrimes in the era of rapidly advancing technology, specifically targeting the propagation of harmful phishing links that pose serious threats due to data breaches. By harnessing predictive techniques, the goal is to proactively mitigate the impact of deceptive links. In anticipation of phishing attempts, this initiative seeks to detect and neutralize potentially harmful URLs, contributing to a safer digital landscape. 
+
 The project draws its dataset from https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls, encompassing a collection of URLs labeled as "good" and "bad". Leveraging data preprocessing, the project extracts valuable features including domain, subdomain, suffix, path, and parameters, essential for informed predictions. Employing a robust array of models such as XGBoost, Random Forest, Gradient Boosting Classifier, Neural Networks, Logistic Regression, and linear SVC, this endeavor aspires to proactively safeguard users from malicious online activities.
 
 ## **Project Code:**
