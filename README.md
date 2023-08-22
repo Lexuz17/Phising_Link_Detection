@@ -22,7 +22,7 @@ Steps:
     - Convert Data to a list
     - One Hot Encoding
     - Sparse matrix conversion
-8. Moddeling
+8. Modeling
     - XGBoost
     - Random Forest
     - Gradient Boosting Classifier
